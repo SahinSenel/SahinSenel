@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SahinSenel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning html,css, javascript
+- 👀 I’m interested Front-End Devolopment
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sahansenel@hotmail.com
 
 <!---
 SahinSenel/SahinSenel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
